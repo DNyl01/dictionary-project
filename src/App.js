@@ -10,7 +10,7 @@ function App() {
        <h1>Dictionary</h1>
         <SearchEngine/>
       </header>
-      <footer> Coded by DNyl hosnted on <a href="#">GitHub</a> & Deplyed on <a href="#">Netlify</a> </footer>
+      <footer> Coded by DNyl hosnted on GitHub & Deplyed on Netlify </footer>
     </div></div>
   );
 }
