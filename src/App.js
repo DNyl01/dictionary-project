@@ -8,9 +8,11 @@ function App() {
     <div className="App">
       <header className="App-header">
        <h1>Dictionary</h1>
+       </header>
         <SearchEngine/>
-      </header>
-      <footer> Coded by DNyl hosnted on GitHub & Deplyed on Netlify </footer>
+      
+      
+      <footer> Coded by DNyl hosted on GitHub & Deplyed on Netlify </footer>
     </div></div>
   );
 }

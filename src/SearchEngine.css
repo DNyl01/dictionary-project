@@ -1,0 +1,26 @@
+input{ width: 60%;
+border-radius:5px;
+padding: 8px;
+box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+border: 1px solid #d1d5db;}
+
+
+button{ width: 40%;
+border-radius:6px;
+padding: 8px;
+box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+border:1px solid #d1d5db;
+background-color: rgb(201, 118, 252);
+font-size: 14px;
+transition: all 2ms ease-in-out;}
+
+
+button:hover{
+    background-color: rgb(201, 118, 252);
+    color:#F8F4FF;
+}
+
+form{  display: flex;
+    justify-content: center;
+    align-items: center;
+}
